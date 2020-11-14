@@ -6,4 +6,3 @@ Uma Tela de carregamento feita em html & css, feita em base de testes.
 Feito em base:
 
   ![HTML5](https://img.shields.io/badge/-html5-black?style=flat&logo=html5)
-  ![Css](https://img.shields.io/badge/-Css-black?style=flat&logo=Css)
