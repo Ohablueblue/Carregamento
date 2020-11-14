@@ -1,7 +1,7 @@
 # Carregamento
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/764569199711354880/777238018737569812/ARKDOTNET.jpg" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/769628222341251092/777247465760882708/ezgif.com-gif-maker.gif" />
 
-ArkDotNet, é um projeto que ainda está em desenvolvimento, caso atualizarmos alguns codigos estaremos editando aqui no github tambem.
+Uma Tela de carregamento feita em html & css, feita em base de testes.
 
 Linguagem Usada:
 
